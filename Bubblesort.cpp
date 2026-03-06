@@ -23,9 +23,9 @@ void input()
     }
 
     cout << endl;
-    cout << "====================="
-    cout << "Masukkan elemen Array"
-    cout << "====================="
+    cout << "=====================" << endl;
+    cout << "Masukkan elemen Array" << endl;
+    cout << "=====================" << endl;
 
     for (int i = 0; i < n; i++) //i++ /i = i+1
     {
