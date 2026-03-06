@@ -70,5 +70,14 @@ void BubbleSort()
         {
             cout << a[k] << "\t";
         }
+        cout << endl;
     }
+}
+
+int main()
+{
+    input();
+    BubbleShort();
+    display();
+    return 0;
 }
